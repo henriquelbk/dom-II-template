@@ -37,9 +37,11 @@
   .dark input{
     background-color: #1d1d1d;
     color: white;
+    padding-left: 10px;
   }
   
   .dark button{
     background-color: #8e8e8e;
     color: white;
+    padding-left: 10px;
   }
